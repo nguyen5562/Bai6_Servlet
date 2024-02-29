@@ -1,8 +1,5 @@
 package com.example.Bai6_Servlet.Cart;
 
-import com.example.Bai6_Servlet.Model.ItemOrder;
-import com.example.Bai6_Servlet.Model.ShoppingCart;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;

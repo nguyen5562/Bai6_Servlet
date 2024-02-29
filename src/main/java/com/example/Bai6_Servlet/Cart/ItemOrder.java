@@ -1,4 +1,4 @@
-package com.example.Bai6_Servlet.Model;
+package com.example.Bai6_Servlet.Cart;
 
 import com.example.Bai6_Servlet.Book.Book;
 
